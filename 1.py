@@ -1,3 +1,7 @@
+'''
+https://leetcode.com/problems/pascals-triangle/description/
+'''
+
 class Solution:
     def generate(self, num_rows: int) -> List[List[int]]: # type: ignore
         triangle = []
